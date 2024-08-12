@@ -12,7 +12,6 @@ The project features a unique architecture that integrates advanced ensemble tec
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Models](#models)
 - [Evaluation](#evaluation)
@@ -35,14 +34,14 @@ The dataset used for this project is the Water Potability Dataset from Kaggle. E
 ## Models
 The notebook includes the following machine learning models:
 
--Gradient Boosting Classifier (GB)
--Random Forest Classifier (RF)
--Bagging Classifier (BC)
--Support Vector Machines (SVM)
--Logistic Regression (LR)
--K-Nearest Neighbors (KNN)
--Decision Tree Classifier (DT)
--AdaBoost Classifier (ABC)
+-[Gradient Boosting Classifier (GB)]
+-[Random Forest Classifier (RF)]
+-[Bagging Classifier (BC)]
+-[Support Vector Machines (SVM)]
+-[Logistic Regression (LR)]
+-[K-Nearest Neighbors (KNN)]
+-[Decision Tree Classifier (DT)]
+-[AdaBoost Classifier (ABC)]
 
 ## Evaluation
 Model performance is evaluated using metrics such as accuracy, precision, recall, F1-score, and AUC-ROC. Results and visualizations are included within the notebook.
@@ -53,10 +52,11 @@ The notebook includes detailed results and performance metrics of the models, in
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
--Fork the repository.
--Create a new branch (git checkout -b feature-branch).
--Make your changes and commit them (git commit -am 'Add new feature').
--Push to the branch (git push origin feature-branch).
--Create a new Pull Request.
+-[Fork the repository.]
+-[Create a new branch (git checkout -b feature-branch).]
+-[Make your changes and commit them (git commit -am 'Add new feature').]
+-[Push to the branch (git push origin feature-branch).]
+-[Create a new Pull Request.]
 
-
+## License
+This project is licensed under the MIT License. 
